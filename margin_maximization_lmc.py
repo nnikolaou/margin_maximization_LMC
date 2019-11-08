@@ -1,4 +1,6 @@
-#Code accompaying paper Margin Maximization as Lossless Maximal Compression, submitted in NeurIPS 2019. 
+#Code for the paper Margin Maximization as Lossless Maximal Compression
+#by N. Nikolaou, H. Reeve & G. Brown,
+#Submitted in MLJ, S.I. ECML-PKDD 2020 on Nov 8 2019. 
 
 from sklearn import ensemble
 from sklearn.model_selection import train_test_split
