@@ -1,8 +1,8 @@
 # margin_maximization_LMC
-Code & Data for the paper:
+Code & Data for the preprint:
 'Margin Maximization as Lossless Maximal Compression'
 by N.Nikolaou, H.Reeve, G. Brown.
-Submitted to MLJ S.I. ECMLPKDD 2020 on Nov 8 2019
+https://arxiv.org/abs/2001.10318#
 
 To run on artificial data:
 Follow comments in code & uncomment appropriate parts of the python script.
